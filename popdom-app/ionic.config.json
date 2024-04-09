@@ -1,0 +1,7 @@
+{
+  "name": "popdom-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
